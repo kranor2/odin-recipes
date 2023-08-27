@@ -1,6 +1,12 @@
 .basic {
     font-family: "Courier New", "monospace";
     font-weight: bold;
+    margin: 24px;
+    text-align: center;
+}
+
+div {
+    text-align: center;
 }
 
 .burrito {
@@ -8,6 +14,9 @@
     background-color: #c49d82;
     color: #056402;
     font-size: 18px;
+    text-align: center;
+    display: inline-block;
+    padding: 16px;
 }
 
 .pasta {
@@ -15,6 +24,9 @@
     background-color: #f1dabe;
     color: #961d08;
     font-size: 18px;
+    text-align: center;
+    display: inline-block;
+    padding: 16px;
 }
 
 .pasta-body {
@@ -29,6 +41,9 @@
     background-color: #cc5f57;
     color: #180db7;
     font-size: 18px;
+    text-align: center;
+    display: inline-block;
+    padding: 16px;
 }
 
 .header {

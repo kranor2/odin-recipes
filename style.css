@@ -1,0 +1,47 @@
+.basic {
+    font-family: "Courier New", "monospace";
+    font-weight: bold;
+}
+
+.burrito {
+    font-family: "Garamond", "serif";
+    background-color: #c49d82;
+    color: #056402;
+    font-size: 18px;
+}
+
+.pasta {
+    font-family: "Brush Script MT","cursive";
+    background-color: #f1dabe;
+    color: #961d08;
+    font-size: 18px;
+}
+
+.pasta-body {
+    font-family: "Georgia","sans-serif";
+    background-color: #f1dabe;
+    color: #961d08;
+    font-size: 18px;
+}
+
+.strawberry {
+    font-family: "Trebuchet MS","sans-serif";
+    background-color: #cc5f57;
+    color: #180db7;
+    font-size: 18px;
+}
+
+.header {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.category {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.subhead {
+    font-size: 21px;
+    font-weight: bold;
+}
